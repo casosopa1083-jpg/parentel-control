@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color childGreen
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color tutorBlue
+color white
+id btnChild
+id btnOpenNotificationSettings
+id btnRefresh
+id btnRequestPermissions
+id btnTutor
+id roleSelectionLayout
+id tvConnectedStatus
+id tvContactsCount
+id tvDeviceStatus
+id tvEvents
+id tvInstructions
+id tvMonitorTitle
+id tvNotificationCount
+id tvStatus
+id tvTitle
+layout activity_main
+layout activity_monitor
+mipmap ic_launcher
+string app_name
+string child_role
+string permission_request_message
+string server_status_connected
+string server_status_disconnected
+string tutor_role
+style TextAppearance.App.Heading
+style Theme.ParentalControlApp

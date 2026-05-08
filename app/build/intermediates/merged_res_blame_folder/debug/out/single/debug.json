@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.1.1/com.parentalcontrolapp-merged_res-41:/layout_activity_main.xml.flat",
+        "source": "/home/codespace/.gradle/daemon/8.1.1/com.parentalcontrolapp-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.1.1/com.parentalcontrolapp-merged_res-41:/layout_activity_monitor.xml.flat",
+        "source": "/home/codespace/.gradle/daemon/8.1.1/com.parentalcontrolapp-main-43:/layout/activity_monitor.xml"
+    },
+    {
+        "merged": "com.parentalcontrolapp-merged_res-41:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.parentalcontrolapp-main-43:/mipmap-mdpi/ic_launcher.png"
+    }
+]

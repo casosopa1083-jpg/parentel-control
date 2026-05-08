@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="childGreen">#66BB6A</color>
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="tutorBlue">#42A5F5</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Parental Control</string>
+    <string name="child_role">Hijo</string>
+    <string name="permission_request_message">La aplicación necesita permisos para leer contactos, acceder a notificaciones y transmitir información al tutor.</string>
+    <string name="server_status_connected">Conectado al servidor de monitoreo.</string>
+    <string name="server_status_disconnected">Desconectado del servidor.</string>
+    <string name="tutor_role">Tutor</string>
+    <style name="TextAppearance.App.Heading" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="Theme.ParentalControlApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>
